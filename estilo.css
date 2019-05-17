@@ -1,9 +1,9 @@
 body{
-    background-image: url(ONG.jpg);
+    background-image:url(Eletiva.jpg);
     background-size: cover;
 }
 .formulario{
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(250, 11, 11, 0.5);
     color: white;
     width: 250px;
     padding: 15px;
